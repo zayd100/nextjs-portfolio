@@ -6,7 +6,7 @@ function DonatePopup() {
   const [isOpen, setIsOpen] = useState(false);
   const [copied, setCopied] = useState(false);
   // I included Mine you can change for yours.
-  const solAddress = "0x2890AbeB61ff74c8e60D21BE818B9D1aAC83dad7";
+  const solAddress = "GBmt65eGgmPNVVvtV2M1QHooL3hgEsi33u5BdoUuj2Lp";
   
   const copyToClipboard = async () => {
     try {
