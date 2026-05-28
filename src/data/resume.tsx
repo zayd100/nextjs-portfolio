@@ -292,7 +292,7 @@ description: `helping founders ship MVPs, internal tools, and Landing pages`,
       video: "https://player.vimeo.com/video/1164062331",
     },
      {
-  title: "Hand Signal Detector",
+  title: "Hand Signal AI",
   href: "",
   active: false,
   description: "Real-time fieldh and signal detector using webcam, MediaPipe & AI, detects tactical gestures and announces them out loud via text-to-speech.",
