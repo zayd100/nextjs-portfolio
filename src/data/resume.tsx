@@ -233,7 +233,7 @@ description: `helping founders ship MVPs, internal tools, and Landing pages`,
 },
     
         {
-      title: "ReviewFlow for n8n",
+      title: "ReviewPing",
       href: "https://github.com/zayd100/ReviewFlow-for-n8n.git",
       active: true,
       description:
