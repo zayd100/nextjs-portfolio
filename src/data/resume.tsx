@@ -238,34 +238,31 @@ description: `helping founders ship MVPs, internal tools, and Landing pages`,
   image: "/images/crm.png",
   video: "https://player.vimeo.com/video/1164041318",
 },
+    
         {
-      title: "JetWiki",
-      href: "github.com/zayd100/jetwiki",
+      title: "ReviewFlow for n8n",
+      href: "https://github.com/zayd100/ReviewFlow-for-n8n.git",
       active: true,
       description:
-        "Explore decades of air combat history , missions, the jets that flew them, pilots, and the companies that built them. A full stack web app with an available seeding script for aviation enthusiasts and developers alike.",
+        "Automated Google review request workflow built with n8n for local businesses. Sends a timed SMS sequence after completed sales or services to increase customer review volume.",
       technologies: [
-        "CSS",
-        "javascript",
-        "MongoDB",
-        "Express.js",
-        "React",
-        "Node.js",
+        "n8n",
+        "JSON / Webhooks",
+        "Gmail API",
+        "Twilio",
       ],
       links: [
    
         {
           type: "Source",
-          href: "https://github.com/zayd100/jetwiki",
+          href: "https://github.com/zayd100/ReviewFlow-for-n8n.git",
           icon: <Icons.github className="size-3" />,
         },
       ],
       
-      image: "/images/jetwiki.png",
-      video:
-      "https://player.vimeo.com/video/1164249396",
+      image: "/images/workflow.png",
+      video: "",
     },
-       
     {
       title: "Delta",
       href: "",
@@ -386,7 +383,34 @@ description: `helping founders ship MVPs, internal tools, and Landing pages`,
       image: "/images/zyzd.png",
       video: "https://player.vimeo.com/video/1164253515",
     },
-
+  
+        {
+      title: "JetWiki",
+      href: "github.com/zayd100/jetwiki",
+      active: true,
+      description:
+        "Explore decades of air combat history , missions, the jets that flew them, pilots, and the companies that built them. A full stack web app with an available seeding script for aviation enthusiasts and developers alike.",
+      technologies: [
+        "CSS",
+        "javascript",
+        "MongoDB",
+        "Express.js",
+        "React",
+        "Node.js",
+      ],
+      links: [
+   
+        {
+          type: "Source",
+          href: "https://github.com/zayd100/jetwiki",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      
+      image: "/images/jetwiki.png",
+      video:
+      "https://player.vimeo.com/video/1164249396",
+    },
       /*
     {
       title: "HTTP server",
