@@ -12,7 +12,7 @@ export const DATA = {
   locationLink: "https://www.google.com/maps/place/karachi",
 description: `helping founders ship MVPs, internal tools, and Landing pages`,
   summary:
-  "I'm a technical consultant. I build landing pages, custom internal tools, and knowledge management systems for growing teams. Over the past two years, I’ve worked with US-based founders and entrepreneurs to turn  ideas into usable tools. That could be a sleek landing page to validate your idea, a custom tool when you’ve outgrown Notion, or a scraper collecting data nobody else thought to gather. I've also done technical research for startups exploring blockchain and spatial audio systems.",
+  "I'm a technical consultant. I build landing pages, custom internal tools, and knowledge management systems for growing teams. Over the past few years, I’ve worked with US-based founders and entrepreneurs to turn  ideas into usable tools. That could be a sleek landing page to validate your idea, a custom tool when you’ve outgrown Notion, or a scraper collecting data nobody else thought to gather. I've also done technical research for startups exploring blockchain and spatial audio systems.",
 
   avatarUrl: "/hi.png",
   skills: [
