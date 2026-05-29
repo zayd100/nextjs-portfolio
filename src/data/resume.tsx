@@ -59,6 +59,14 @@ description: `helping founders ship MVPs, internal tools, and Landing pages`,
 
         navbar: true,
       },
+            
+            X: {
+        name: "X",
+        url: "https://x.com/sharpzayd",
+        icon: Icons.x,
+        navbar:true,
+            },
+
 
 
       email: {
