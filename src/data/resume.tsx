@@ -184,7 +184,7 @@ description: `helping founders ship MVPs, internal tools, and Landing pages`,
   },
     {
     title: "AI Business Automation",
-    description: "Custom AI for support, emails, documents, or data. Integrated with your existing systems.", // or "See insights, act faster."
+    description: "Workflows for support, emails, documents, or data. Built with n8n and integrated with your existing systems.", // or "See insights, act faster."
     image: "/images/analytics.png",
       price:"starting at $1200",
   },
