@@ -54,7 +54,7 @@ description: `helping founders ship MVPs, internal tools, and Landing pages`,
        LinkedIn: {
          
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/zaid-shabbir-953b4b184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        url: "https://www.linkedin.com/in/zaid-shabbir-953b4b184",
         icon: Icons.linkedin,
 
         navbar: true,
