@@ -219,7 +219,7 @@ description: `helping founders ship MVPs, internal tools, and Landing pages`,
   title: "Gnosis-CRM",
   href: "",
   active: false,
-  description: "A production-ready, Lead Distribution & Team Collaboration Platform with advanced analytics and fully functional dashboards for Admins, Warmers, and Closers.",
+  description: "A multi-role SaaS platform for sales teams. Automatically routes leads by tier and score, tracks team performance, and gives every role (Admin, Warmer, Closer) their own dashboard.",
   technologies: [
     "MongoDB",
     "Express.js",
