@@ -28,6 +28,8 @@ description: `helping founders ship MVPs, internal tools, and Landing pages`,
     "Git",
     "Docker",
     "Typescript",
+    "n8n",
+    "Technical Documentation",
     "Just-in-time(JIT) Learning",
   ],
 
