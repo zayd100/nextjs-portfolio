@@ -361,7 +361,7 @@ description: `Building MVPs, automations, and internal tools for Founders`,
   video: "https://player.vimeo.com/video/1164251877",
 },
      {
-  title: "SnoopDocc",
+  title: "SnoopDoc",
   href: "",
   active: false,
   description: "A private, local AI that runs entirely on your machine. Upload any document and ask it anything: no internet, no API costs, no data leaving your laptop.",
