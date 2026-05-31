@@ -381,7 +381,7 @@ description: `Building MVPs, automations, and internal tools for Founders`,
     },
   ],
   image: "/images/docc.png",
-  video: "https://player.vimeo.com/video/1164251877",
+  video: "",
 },
        {
       title: "Shandar Safar",
